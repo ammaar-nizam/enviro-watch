@@ -42,10 +42,9 @@ The `shared-resources` directory includes common utilities, configurations, and 
    ```bash
    git clone https://github.com/ammaar-nizam/enviro-watch.git
 
+2. 
 
-#############
-
-CONTRIBUTORS
+## Contributors
 
 1. Ammaar Nizam
 2. Tharisha Perera
