@@ -42,7 +42,11 @@ The `shared-resources` directory includes common utilities, configurations, and 
    ```bash
    git clone https://github.com/ammaar-nizam/enviro-watch.git
 
-2. 
+2. To Start the Front end
+   - open terminal and execute ```cd react-frontend``` command
+   - then execute ```npm install``` to install dependencies
+   - then ```npm run dev``` to start the application
+     
 
 ## Contributors
 
